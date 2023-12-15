@@ -2,7 +2,7 @@
 ## functional requirements 
 - multiple users can create/delete/modify account
 - user can post blog
-- user can edit already posted blog
+- user can modify posted blog
 - user can share their comment on the blog
 - user can reply to a comment
 ---
