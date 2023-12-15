@@ -31,20 +31,20 @@ class user{
     vector<int> followers, following;   //stores userId 
     vector<int> posts;  //stores postId
     
-}
+};
 
 class reply{
     int replyId;
     int likes;
     string text;
-}
+};
 
 class comment{
     int commentId;
     int likes;
     string text;
-    vector<int> replies
-}
+    vector<int> replies;
+};
 
 class post{
     int postId;
@@ -54,5 +54,5 @@ class post{
     string createdAt, lastModified;    //stores date-time
     string title, content;      //body of blog, json better alternative
     vector<blob> images;
-}
+};
 ```
