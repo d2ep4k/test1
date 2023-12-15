@@ -11,3 +11,4 @@
 - user can follow other users (publish - subscriber model)
 - blog recommendations
 - plagiarism check
+- automated reply
