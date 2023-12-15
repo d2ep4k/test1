@@ -1,4 +1,5 @@
 # test1
 ## functional requirements 
 - multiple users can create acc
-- users can post blog 
+- user can post blog 
+- user can follow other users (publish - subscriber model)
