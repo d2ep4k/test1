@@ -1,6 +1,7 @@
 # test1
 ## functional requirements 
 - multiple users can create/delete/modify account
+- user can login using google or other accounts
 - user can post blog
 - user can modify posted blog
 - user can share their comment on the blog
