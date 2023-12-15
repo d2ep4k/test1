@@ -21,3 +21,38 @@
 
 ![WhatsApp Image 2023-12-15 at 5 24 40 PM](https://github.com/d2ep4k/test1/assets/143197927/0eb76e6f-55cb-4723-9352-5e241a7b09d6)
 
+## databse LLD
+'''
+class user{
+    int userId;
+    string userName;
+    string emailId;
+    string password;
+    vector<int> followers, following;   //stores userId 
+    vector<int> posts;  //stores postId
+    
+}
+
+class reply{
+    int replyId;
+    int likes;
+    string text;
+}
+
+class comment{
+    int commentId;
+    int likes;
+    string text;
+    vector<int> replies
+}
+
+class post{
+    int postId;
+    int owner;  //stores userId
+    int views, likes;
+    vector<int> comments;   // store commentId
+    string createdAt, lastModified;    //stores date-time
+    string title, content;      //body of blog, json better alternative
+    vector<blob> images;
+}
+'''
