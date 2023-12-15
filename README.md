@@ -5,9 +5,10 @@
 - user can modify posted blog
 - user can share their comment on the blog
 - user can reply to a comment
+- user can add images to their blog
 ---
 *secondary*
-- blog may include latex, video, audio, and images
+- blog may include latex, video, audio
 - user can follow other users (publish - subscriber model)
 - blog recommendations
 - plagiarism check
