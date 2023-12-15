@@ -21,8 +21,8 @@
 
 ![WhatsApp Image 2023-12-15 at 5 24 40 PM](https://github.com/d2ep4k/test1/assets/143197927/0eb76e6f-55cb-4723-9352-5e241a7b09d6)
 
-## databse LLD
-'''
+## database LLD
+```
 class user{
     int userId;
     string userName;
@@ -55,4 +55,4 @@ class post{
     string title, content;      //body of blog, json better alternative
     vector<blob> images;
 }
-'''
+```
